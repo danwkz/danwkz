@@ -41,6 +41,10 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=danwkz)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silva-wkz)
